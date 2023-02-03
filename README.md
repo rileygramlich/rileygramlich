@@ -1,7 +1,6 @@
 ## Hello! 👋 I'm Riley G
 ### Software Developer | General Problem Solver
 ---
-<br/>
 
 - ✍️ Currently, I'm working on <a href="http://scribist.herokuapp.com/">Scribist</a>, <strong> my full-stack writing web application.</strong>
 - 💡 <strong>The MEAN Stack (Mongo, Express, Angular, Node.js), and TypeScript</strong> is currently what I'm studying.  
