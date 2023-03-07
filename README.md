@@ -2,9 +2,9 @@
 ### Software Developer | General Problem Solver
 ---
 
-- ✍️ Currently, I'm working on <a href="http://scribist.herokuapp.com/">Scribist</a>, <strong> my full-stack writing web application.</strong>
-- 💡 <strong>The MEAN Stack (Mongo, Express, Angular, Node.js), and TypeScript</strong> is currently what I'm studying.  
-- 💻 Website: <a href="https://rileygramlich.github.io/riley-gramlich-portfolio/" target="blank">Personal Portfolio</a>
+- ✍️ Currently working on: </strong> Planted Stats <strong> a full-stack application built for tree planters.
+- 💡 Currently studying: <strong>Data Structures and Algorithms with Leet Code Problems</strong>
+- 💻 Website: <a href="https://rileygramlich.dev/" target="blank">Personal Portfolio</a>
 
 ### Connect with me:
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rileygramlich@gmail.com" target="blank"><img align="center" src="https://icongr.am/devicon/google-original.svg?size=128&color=currentColor" alt="vanessa.y.cui@gmail.com" height="30" width="40" /></a>
