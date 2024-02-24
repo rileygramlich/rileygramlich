@@ -3,7 +3,7 @@
 ---
 
 - ✍️ Currently working on: <strong> Planted Stats </strong> a full-stack application built for tree planters.
-- 💡 Currently studying: <strong>Data Structures and Algorithms with Leet Code Problems</strong>
+- 💡 Currently studying: <strong>Data Structures and Algorithms in Python with Leet Code Problems</strong>
 - 💻 Website: <a href="https://rileygramlich.dev/" target="blank">Personal Portfolio</a>
 
 ### Connect with me:
