@@ -2,8 +2,8 @@
 ### Software Developer | General Problem Solver
 ---
 
-- ✍️ Currently working on: <strong> Planted Stats </strong> a full-stack application built for tree planters.
-- 💡 Currently studying: <strong>Data Structures and Algorithms in Python with Leet Code Problems</strong>
+- ✍️ Currently working on: <strong> building AI agents </strong> with n8n.
+- 💡 Currently studying: <strong>Data Structures and Algorithms in Java</strong>
 - 💻 Website: <a href="https://rileygramlich.dev/" target="blank">Personal Portfolio</a>
 
 ### Connect with me:
